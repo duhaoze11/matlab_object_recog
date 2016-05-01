@@ -1,4 +1,4 @@
-fileName = 'AAA.MP4'; 
+%fileName = 'AAA.MP4'; 
 obj = VideoReader(fileName);
 numFrames = obj.NumberOfFrames;% Ö¡µÄ×ÜÊý
 H=obj.Height;
